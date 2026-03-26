@@ -13,7 +13,6 @@ const stats = [
 const softSkills = [
     { label: 'Problem Solving', color: '#fca5a5' },
     { label: 'Team Player', color: '#fdba74' },
-    { label: 'Project Management', color: '#38bdf8' },
     { label: 'Adaptability', color: '#4ade80' },
 ];
 
