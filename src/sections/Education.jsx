@@ -10,7 +10,6 @@ const educationData = [
         field: 'Computer Science and Engineering',
         location: 'Punjab, India',
         period: "Aug '24 – Present",
-        score: 'CGPA: 6.7',
         icon: '🎓',
         color: '#14b8a6', // teal
     },
@@ -21,7 +20,6 @@ const educationData = [
         field: 'Computer Science',
         location: 'Madhya Pradesh, India',
         period: "Apr '21 – Jun '24",
-        score: 'CGPA: 8.4',
         icon: '💻', 
         color: '#6366f1', // indigo
     },
@@ -32,7 +30,6 @@ const educationData = [
         field: '',
         location: 'Satna, Madhya Pradesh',
         period: "Completed '21",
-        score: '55%',
         icon: '🏫', 
         color: '#f59e0b', // amber
     }
